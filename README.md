@@ -1,0 +1,2 @@
+# CryptoQEX
+ThemeForest theme
